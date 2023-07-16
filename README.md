@@ -10,8 +10,14 @@ Fitur yang ada dalam aplikasi ini :
 
 
 Anggota Kelompok:
-Cindy Febriatika (21753008)
-Ema Yudiana Cahyani (21753012)
-Ivan Setiawan(21753016)
-Nuraini (21753026)
-Sutan Ambia (21753034)
+1. Cindy Febriatika (21753008)
+2. Ema Yudiana Cahyani (21753012)
+3. Ivan Setiawan(21753016)
+4. Nuraini (21753026)
+5. Sutan Ambia (21753034)
+
+link youtube:
+https://youtu.be/-0GnwVHPNdo
+
+
+
